@@ -19,3 +19,18 @@ body {
   padding: 10px;
   text-align: center;
 }
+
+.hudday {
+  text-align: center;
+  margin: 50px;
+}
+
+.hudday > button {
+  margin: 20px;
+  padding: 20px 50px;
+  border-radius: 50px;
+  font-size: 1em;
+  font-weight: bold;
+  color: #282c34;
+  border: none;
+}
